@@ -16,13 +16,15 @@ Topics from this conversation that piqued my interest and I’m exploring in dep
 
 **The Evolution of eCommerce**
 
-- eComm v1.0 was built on search, perfected by Amazon, and solved pricing, assortment and convenience. eComm v2.0 will be built on recommendation and personalisation ,and solve product relevancy.
+- eCommerce v1.0 was built on search, perfected by Amazon, and solved pricing, assortment and convenience. eCommerce v2.0 will be built on recommendation and personalisation ,and solve product relevancy.
 
 - RECOMMENDED READ: How Amazon solved the product discovery by search [The Anti-Amazon Alliance – Stratechery by Ben Thompson](https://stratechery.com/2020/the-anti-amazon-alliance/) 
 
 **Augmenting human creativity**
 
-- Marrying Data Science capabilities with subjective stylist opinions and identifying the right ‘Fix’ for a customer.
+- Fusing Data Science capabilities with subjective stylist opinions and identifying the right ‘Fix’ for a customer.
+
+- Apparel being a subjective category, a fix almost has a 'job' (JTBD) quality to it.
 
 - Walmart buyer (personalising for local market but constrained by shelf space) -> Stitch Fix stylist (personalising for Individual; unconstrained due to infinite shelf space).
 
