@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-size:1em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -50,4 +51,17 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+
+/* Meta data line below post title */
+.post-tags {
+    display:block;
+    margin-top: -.5rem;
+    margin-bottom: .5rem;
+  }
+
+.post-tags a{
+    color: steelblue;
+    font-size: 1.2em;
 }

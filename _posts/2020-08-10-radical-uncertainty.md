@@ -2,7 +2,7 @@
 layout: post
 title: "Notes from Econtalk episode John Kay and Mervyn King on Radical Uncertainty"
 date: 2020-08-10
-categories: decision-making podcast-notes economics
+tags: decision-making podcast-notes economics
 ---
 
 John Kay and Mervyn King talk about their book, Radical Uncertainty. This is a wide-ranging discussion based on the book looking at rationality, decision-making under uncertainty, and the economists' view of the world.
