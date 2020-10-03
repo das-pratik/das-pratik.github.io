@@ -53,6 +53,11 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+    max-width: 100%;
+    vertical-align: bottom;
+  }
+
 
 /* Meta data line below post title */
 .post-tags {
@@ -64,4 +69,18 @@ ul.posts li {
 .post-tags a{
     color: steelblue;
     font-size: 1.2em;
+}
+
+
+/* Bookshelf */
+
+.grid-container {
+    display: grid;
+     grid-gap: 50px 50px; 
+     grid-template-columns: auto auto auto; 
+  }
+
+.book {
+    padding: 20px;
+    font-size: 30px;
 }
