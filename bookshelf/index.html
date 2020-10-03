@@ -4,6 +4,7 @@ title: Bookshelf
 ---
 <h1>{{ page.title }}</h1>
 
+<h2>Currently Reading</h2>
 <main class="grid-container">
 {% for book in site.data.books  %}
     <article class="book">
@@ -13,8 +14,8 @@ title: Bookshelf
             </a>
         </figure>
         <div>
-            <h5>{{ book.title }}</h5>
-            <h6>{{ book.author }}</h6>
+            <h6>{{ book.title }}</h6>
+            <p>{{ book.author }}</p>
         </div>
     </article>
 {% endfor %}
