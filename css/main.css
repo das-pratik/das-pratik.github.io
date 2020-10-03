@@ -30,11 +30,22 @@ a:hover {
     text-decoration: underline;
     text-decoration-color: dodgerblue;
 }
+
+h2, h3, h4, h5, h6 ,p {
+    margin: 0;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+p.highlight{
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -53,6 +64,11 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+    max-width: 100%;
+    vertical-align: bottom;
+  }
+
 
 /* Meta data line below post title */
 .post-tags {
@@ -64,4 +80,18 @@ ul.posts li {
 .post-tags a{
     color: steelblue;
     font-size: 1.2em;
+}
+
+
+/* Bookshelf */
+
+.grid-container {
+    display: grid;
+     grid-gap: 1em; 
+     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+  }
+
+.book {
+    padding: 20px;
+    font-size: 30px;
 }
