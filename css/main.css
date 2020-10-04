@@ -93,5 +93,5 @@ img {
 
 .book {
     padding: 20px;
-    font-size: 30px;
+    grid-template-rows: 2fr 1fr;
 }
