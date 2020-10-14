@@ -4,7 +4,7 @@ body {
     font-size:1em;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,23 +32,25 @@ a:hover {
 }
 
 h2, h3, h4, h5, h6 ,p {
+    font-family:'Roboto', sans-serif;
     margin: 0;
 }
 
 h1 {
+    font-family:'Roboto', sans-serif;
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
+    font-family:'Roboto', sans-serif;
     margin: 0;
     font-size: 1rem;
+    font-weight: 1; /* weight=1 to make text light*/
 }
 
 p.highlight{
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -61,6 +63,9 @@ ul.posts {
 }
 
 ul.posts li {
+    font-family:'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 1; /* weight=1 to make text light*/
     list-style: none;
 }
 
