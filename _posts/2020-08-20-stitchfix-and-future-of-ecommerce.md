@@ -4,7 +4,6 @@ title: "Notes from Future of eCommerce with Katrina Lake"
 date: 2020-08-20
 tags: ecommerce data-science recommendation
 ---
-<br/>
 Patrick and Katrina Lake, Stitch Fix CEO discuss Stitch Fix’s unique business model, growth stories, and its future.
 Stitch Fix is a eCommerce apparel retailer fusing data science and personal stylists to create unique and personalised shopping experiences.
 <br/>
