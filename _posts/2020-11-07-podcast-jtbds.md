@@ -18,8 +18,7 @@ It would be interesting to compare and contrast -
 *  Proportion of active users creating music playlists vs proportion of active users creating podcast playlists
 *  Average playback rate across music and podcast playlist
 *  Repeat play/read distribution of music tracks and podcast episodes
-</br>
-</br>
+
 <div class="grid-container">
     <img src="{{site.baseurl}}/images/podcast-JTBDs-01.png" alt="No Image">
 </div>
